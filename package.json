@@ -23,7 +23,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "local-cors-proxy": "^1.0.2",
-    "next": "^9.1.4",
+    "next": "^9.3.2",
     "next-routes": "^1.4.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
